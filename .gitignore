@@ -22,9 +22,7 @@ staticfiles/
 
 # Python virtual environment
 venv/
-.env/
 .envrc
-*.env
 
 # VSCode settings (if ever used)
 .vscode/
